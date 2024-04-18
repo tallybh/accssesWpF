@@ -7,3 +7,4 @@ using ViewModel;
 ApplicationContext.MyProperty = 8;
 
 int y = 1;
+int x = 2;
